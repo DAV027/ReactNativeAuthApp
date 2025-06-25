@@ -1,7 +1,3 @@
-Here’s a complete example of a `README.md` file for your combined **React Native (frontend)** and **Node.js (Express) backend** authentication app:
-
----
-
 
 # React Native Auth App with Node.js Backend
 
