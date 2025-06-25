@@ -1,0 +1,22 @@
+# Node modules
+**/node_modules/
+
+# Expo/React Native
+frontend/.expo/
+frontend/.expo-shared/
+frontend/.env
+frontend/android/
+frontend/ios/
+frontend/web-build/
+frontend/dist/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
