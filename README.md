@@ -2,12 +2,12 @@ Here’s a complete example of a `README.md` file for your combined **React Nati
 
 ---
 
-```markdown
+
 # React Native Auth App with Node.js Backend
 
 This is a full-stack mobile authentication app built using **React Native (Expo)** for the frontend and **Node.js with Express** for the backend. It supports features like user registration, login, profile image upload, profile management, and more.
 
-```
+
 
 ## 📁 Project Structure
 
